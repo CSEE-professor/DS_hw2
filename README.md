@@ -9,4 +9,4 @@
 출력: 첫째 줄에 A+B, 둘째 줄에 A-B, 셋째 줄에 A*B, 넷째 줄에 A/B, 다섯째 줄에 A%B를 출력한다.
 
 
-*Python으로 작성하세요. Base code file 이름을 변경하지 말아주세요.
+**Python으로 작성하세요. Base code file 이름을 변경하지 말아주세요.
